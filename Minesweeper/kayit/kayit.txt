@@ -1,0 +1,26 @@
+12;12;10;0 saat, 1 dakika, 17 saniye.;Mayin canavari
+13;13;13;0 saat, 1 dakika, 27 saniye.;Mayin canavari
+10;10;5;0 saat, 0 dakika, 55 saniye.;Mayin canavari
+20;20;40;0 saat, 5 dakika, 16 saniye.;Mayin canavari
+12;12;12;0 saat, 1 dakika, 11 saniye.;Mayin canavari
+12;12;10;0 saat, 1 dakika, 3 saniye.;Mayin canavari
+12;12;7;0 saat, 2 dakika, 18 saniye.; 
+10;10;7;0 saat, 1 dakika, 1 saniye.; 
+10;10;6;0 saat, 2 dakika, 35 saniye.; 
+10;10;5;0 saat, 0 dakika, 24 saniye.; 
+12;12;7;0 saat, 2 dakika, 14 saniye.; 
+12;12;7;0 saat, 0 dakika, 16 saniye.; 
+15;15;5;0 saat, 0 dakika, 13 saniye.; 
+12;12;14;0 saat, 2 dakika, 9 saniye.; 
+12;12;12;0 saat, 1 dakika, 8 saniye.; 
+12;21;5;0 saat, 2 dakika, 48 saniye.; 
+12;21;12;0 saat, 2 dakika, 13 saniye.; 
+10;10;5;0 saat, 0 dakika, 5 saniye.; 
+12;12;25;0 saat, 4 dakika, 29 saniye.; 
+12;12;5;0 saat, 0 dakika, 12 saniye.; 
+12;12;5;0 saat, 0 dakika, 4 saniye.; 
+12;12;5;0 saat, 0 dakika, 10 saniye.; 
+10;10;10;0 saat, 1 dakika, 51 saniye.; 
+10;10;5;0 saat, 0 dakika, 1 saniye.; 
+10;10;20;0 saat, 5 dakika, 44 saniye.; 
+12;12;5;0 saat, 0 dakika, 14 saniye.; 
