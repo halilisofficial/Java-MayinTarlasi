@@ -1,2 +1,2 @@
 # Java-MayinTarlasi
-java
+Gerçekleştirilirken farklı kaynaklardan yararlanıldı.
